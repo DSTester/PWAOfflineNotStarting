@@ -46,6 +46,7 @@
                   "maximumError": "4kb"
                 }
               ],
+              "baseHref": "PWAOfflineNotStarting",
               "outputHashing": "all",
               "outputPath": "build"
             },
