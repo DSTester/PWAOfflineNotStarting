@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669644955052,
+  "timestamp": 1669645517939,
   "index": "PWAOfflineNotStarting/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "PWAOfflineNotStarting/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "PWAOfflineNotStarting/index.html": "6b5ace35477a06c4d91bd1477f71b6652d9bc028",
     "PWAOfflineNotStarting/main.a0853f0a4340c604.js": "ed5e871ba891760f48f5de0f6cb91df2a6b293f3",
-    "PWAOfflineNotStarting/manifest.webmanifest": "c235be5e137009cd7ae605db51617f9364f5dc57",
+    "PWAOfflineNotStarting/manifest.webmanifest": "4515e0cf6591fee94f33b83e1d1a309c69b9826a",
     "PWAOfflineNotStarting/polyfills.82ec0abbc188644c.js": "e0197be1cde6cce798c0638c68fa5c34f71cc5e6",
     "PWAOfflineNotStarting/runtime.9413715d46c7dd69.js": "0e02edfd4882552a4ca3d71f1e4be7b39dff1d6c",
     "PWAOfflineNotStarting/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
