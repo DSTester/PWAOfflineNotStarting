@@ -5,19 +5,27 @@
     {
       "name": "app",
       "installMode": "prefetch",
+      "updateMode": "prefetch",
       "resources": {
         "files": [
           "/favicon.ico",
           "/index.html",
           "/manifest.webmanifest",
+          "/ngsw.json",
           "/*.css",
           "/*.js"
+        ],
+        "urls": [
+          "./"
         ]
+      },
+      "cacheQueryOptions": {
+        "ignoreSearch": true
       }
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "resources": {
         "files": [
